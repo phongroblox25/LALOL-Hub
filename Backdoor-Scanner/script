@@ -10,9 +10,9 @@
 -- Instances: 33 | Scripts: 3 | Modules: 3
 local G2L = {};
 
--- StarterGui.LALOL Hub Backdoor
+-- StarterGui.memaybeo Hub Backdoor
 G2L["1"] = Instance.new("ScreenGui", game:GetService('CoreGui'):WaitForChild('RobloxGui'));
-G2L["1"]["Name"] = [[LALOL Hub Backdoor]];
+G2L["1"]["Name"] = [[memaybeo Hub Backdoor]];
 G2L["1"]["ZIndexBehavior"] = Enum.ZIndexBehavior.Sibling;
 G2L["1"]["ResetOnSpawn"] = false;
 
